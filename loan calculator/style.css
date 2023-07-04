@@ -1,0 +1,49 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.container {
+  font-size: 1.6rem;
+  text-align: center;
+  padding: 4rem;
+  color: #fff;
+  background-color: darkcyan;
+  border-radius: 10px;
+  margin: 1rem;
+}
+h1 {
+  font-size: 2.2;
+  color: darkblue;
+}
+
+input {
+  width: 100%;
+  height: 3rem;
+  font-size: 1.6rem;
+  margin-top: 1rem;
+  margin-bottom: 0.4rem;
+}
+p {
+  font-size: 1.9rem;
+  text-align: left;
+}
+
+.loan {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-top: 1.2rem;
+  color: red;
+}
